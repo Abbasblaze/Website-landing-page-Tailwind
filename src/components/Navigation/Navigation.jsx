@@ -1,8 +1,8 @@
 function Navigation() {
   return (
     <>
-  <div className=" max-w-7xl w-full m-auto flex justify-between items-center my-7 mx-20">
-    <div className="flex items-center">
+  <div className="max-w-full w-full m-auto flex justify-between items-center my-7 ">
+    <div className="flex items-center ml-20">
       <img src="src/assets/logo (1).png" alt="Logo" className="mr-2" />
       <span className="text-lg font-bold">Landwind</span>
       <div className="flex gap-8 text-base ml-6">
@@ -14,10 +14,10 @@ function Navigation() {
     </div>
     </div>
 
-    <div className="flex items-center justify-end gap-4">
-      <a href="#" className="font-medium text-gray-700 hover:text-indigo-500">Log In</a>
+    <div className="flex items-center justify-end gap-4 mr-20">
+      <a href="#" className="font-medium text-purple-600 hover:text-purple-500">Log In</a>
       <button
-        className="bg-indigo-600 text-white px-6 py-2 rounded-lg hover:bg-indigo-700 transition duration-200"
+        className="bg-purple-600 text-white px-6 py-2 rounded-lg hover:bg-purple-700 transition duration-200"
       >
         Get started
       </button>
