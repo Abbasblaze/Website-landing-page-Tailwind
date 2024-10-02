@@ -35,7 +35,7 @@ function Features() {
         <img src="src/assets/Image.png" alt="" className="mr-20" />
       </div>
 
-      <div className="flex justify-around items-center bg-gray-50 gap-16 ">
+      <div className="flex justify-around items-center bg-gray-50 gap-16 pb-10">
         <img src="src/assets/Image (1).png" alt="" className="ml-20" />
         <div className="">
           <h1 className="text-4xl text-gray-900 font-extrabold  ">
