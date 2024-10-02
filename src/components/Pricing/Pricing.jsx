@@ -42,7 +42,7 @@ function Pricing() {
             </li>
           </ul>
           <div className="mt-8">
-            <button className="w-full bg-purple-900 text-white font-semibold py-2 rounded-lg">Get started</button>
+            <button className="w-full bg-purple-600 text-white font-semibold py-2 rounded-lg">Get started</button>
           </div>
         </div>
 
@@ -77,7 +77,7 @@ function Pricing() {
             </li>
           </ul>
           <div className="mt-8">
-            <button className="w-full bg-purple-900 text-white font-semibold py-2 rounded-lg">Get started</button>
+            <button className="w-full bg-purple-600 text-white font-semibold py-2 rounded-lg">Get started</button>
           </div>
         </div>
 
@@ -112,7 +112,7 @@ function Pricing() {
             </li>
           </ul>
           <div className="mt-8">
-            <button className="w-full bg-purple-900 text-white font-semibold py-2 rounded-lg">Get started</button>
+            <button className="w-full bg-purple-600 text-white font-semibold py-2 rounded-lg">Get started</button>
           </div>
         </div>
       </div>
