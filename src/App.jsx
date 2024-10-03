@@ -1,5 +1,5 @@
 import "./App.css";
-// import Brands from "./components/Brands/Brands";
+import Brands from "./components/Brands/Brands";
 // import Faqs from "./components/Faqs/Faqs";
 // import Features from "./components/Features/Features";
 // import Footer from "./components/Footer/Footer";
@@ -14,7 +14,7 @@ function App() {
   return <>
   <Navigation/>
   <Header/>
-  {/* <Brands/> */}
+  <Brands/>
   {/* <Features/> */}
   {/* <Trusted/> */}
   {/* <Testimonial/> */}
