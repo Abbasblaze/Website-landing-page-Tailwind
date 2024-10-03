@@ -16,7 +16,7 @@ function Pricing() {
 
 
 
-        <div className="border border-gray-200 rounded-lg shadow-sm p-8 m-9 ">
+        <div className="border border-gray-200 rounded-lg shadow-sm p-8 ">
           <h3 className="text-2xl flex justify-center items-center font-bold leading-6 text-gray-900">Starter</h3>
           <p className="mt-4 text-lg text-center text-gray-500">Great for personal use and for your side projects.</p>
           <div className="mt-8 flex justify-left items-center">
@@ -51,7 +51,7 @@ function Pricing() {
         </div>
 
         {/* Company Plan */}
-        <div className="border border-gray-200 rounded-lg shadow-sm p-8 m-9">
+        <div className="border border-gray-200 rounded-lg shadow-sm p-8">
           <h3 className="text-2xl flex justify-center items-center font-bold leading-6 text-gray-900">Company</h3>
           <p className="mt-4 text-lg text-center text-gray-500">Best for large scale uses and rights.</p>
           <div className="mt-8 flex justify-left items-center">
@@ -86,7 +86,7 @@ function Pricing() {
         </div>
 
         {/* Enterprise Plan */}
-        <div className="border border-gray-200 rounded-lg shadow-sm p-8 m-9">
+        <div className="border border-gray-200 rounded-lg shadow-sm p-8">
           <h3 className="text-2xl flex justify-center items-center font-bold leading-6 text-gray-900">Enterprise</h3>
           <p className="mt-4 text-lg text-center font-normal text-gray-500">Best for large scale uses and  rights.</p>
           <div className="mt-8 flex justify-left items-center">
