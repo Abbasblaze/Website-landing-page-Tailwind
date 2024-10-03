@@ -2,8 +2,8 @@ import "./App.css";
 import Brands from "./components/Brands/Brands";
 import Faqs from "./components/Faqs/Faqs";
 import Features from "./components/Features/Features";
-// import Footer from "./components/Footer/Footer";
-// import FreeTrial from "./components/FreeTrial/FreeTrial";
+import Footer from "./components/Footer/Footer";
+import FreeTrial from "./components/FreeTrial/FreeTrial";
 import Header from "./components/Header/Header";
 import Navigation from "./components/Navigation/Navigation";
 import Pricing from "./components/Pricing/Pricing";
@@ -20,8 +20,8 @@ function App() {
   <Testimonial/>
   <Pricing/>
   <Faqs/>
-  {/* <FreeTrial/> */}
-  {/* <Footer/> */}
+  <FreeTrial/>
+  <Footer/>
   </>;
 }
 
