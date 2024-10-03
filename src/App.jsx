@@ -8,7 +8,7 @@ import Header from "./components/Header/Header";
 import Navigation from "./components/Navigation/Navigation";
 // import Pricing from "./components/Pricing/Pricing";
 // import Testimonial from "./components/Testimonial/Testimonial";
-// import Trusted from "./components/Trusted/Trusted";
+ import Trusted from "./components/Trusted/Trusted";
 
 function App() {
   return <>
@@ -16,7 +16,7 @@ function App() {
   <Header/>
   <Brands/>
   <Features/>
-  {/* <Trusted/> */}
+  <Trusted/>
   {/* <Testimonial/> */}
   {/* <Pricing/> */}
   {/* <Faqs/> */}
