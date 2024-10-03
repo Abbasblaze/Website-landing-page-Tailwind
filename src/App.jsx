@@ -7,7 +7,7 @@ import Features from "./components/Features/Features";
 import Header from "./components/Header/Header";
 import Navigation from "./components/Navigation/Navigation";
 // import Pricing from "./components/Pricing/Pricing";
-// import Testimonial from "./components/Testimonial/Testimonial";
+import Testimonial from "./components/Testimonial/Testimonial";
  import Trusted from "./components/Trusted/Trusted";
 
 function App() {
@@ -17,7 +17,7 @@ function App() {
   <Brands/>
   <Features/>
   <Trusted/>
-  {/* <Testimonial/> */}
+  <Testimonial/>
   {/* <Pricing/> */}
   {/* <Faqs/> */}
   {/* <FreeTrial/> */}
